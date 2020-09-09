@@ -1,4 +1,4 @@
-package entities;
+package dev.alexfog.entities;
 
 public class SimpleEntity {
 

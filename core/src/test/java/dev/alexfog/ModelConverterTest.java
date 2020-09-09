@@ -1,4 +1,6 @@
-import entities.SimpleEntity;
+package dev.alexfog;
+
+import dev.alexfog.entities.SimpleEntity;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
